@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+src/wm_data/weuro2025_events.pkl
+src/wm_data/weuro2025_matches.pkl
